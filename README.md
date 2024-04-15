@@ -5,7 +5,11 @@ This template provides a minimal setup to get React working in Vite with Router 
 **To create a project and use this template do this installation :**
 - Install NodeJS on your computer
 - Install Vite with this command ```npm install -g create-vite```
-- Now go on the folder of the project and do ```npm i``` to install all packages used
+- Git clone the project on your folder
+- Del the git init (be careful it's a hidden folder)
+- Change the name of "Template-Vite-React" folder to the name of your project
+- Go to "package.json" and "package-lock.json" and replace the name of "Template-Vite-React" to the name of your project
+- Now do ```npm i``` to install all packages used
 
 
 ## Packages Used :
