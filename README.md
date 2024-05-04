@@ -16,6 +16,7 @@ This template provides a minimal setup to get React working in Vite with Router 
 - Vite with [```npm create vite@latest```] and choose React & Javascript for the project
 - React-Router [```npm i react-router-dom```]
 - React-Helmet [```npm i react-helmet```]
+- React-Hash-Link [```npm i react-router-hash-link```]
 
 
 ## Author
