@@ -18,7 +18,7 @@ This template provides a minimal setup to get React working in Vite with Router 
 - React-Helmet [```npm i react-helmet```]
 - React-Hash-Link [```npm i react-router-hash-link```]
 
-## Start eh Web App
+## Start Web App
 Use this command to start the app server : ```npm run dev```
 
 
